@@ -1,0 +1,4 @@
+[build]
+    commmand="yarn build"
+    publish="public/"
+    functions="functions/"
